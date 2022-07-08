@@ -1,4 +1,4 @@
-﻿using IdentityServer.AuthServerProject.Models;
+﻿using IdentityServer.AuthServer.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IdentityServer.AuthServerProject.Controllers
+namespace IdentityServer.AuthServer.Controllers
 {
     public class HomeController : Controller
     {

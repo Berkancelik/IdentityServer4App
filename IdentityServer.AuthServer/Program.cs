@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace IdentityServer.AuthServerProject
+namespace IdentityServer.AuthServer
 {
     public class Program
     {
